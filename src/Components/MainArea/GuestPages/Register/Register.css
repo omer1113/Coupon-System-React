@@ -1,0 +1,19 @@
+.Register {
+    border: 2px solid #d3d3d3;
+    border-radius: .5em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 1em;
+    width: 350px;
+    color: black;
+}
+
+.button {
+    width: 150px;
+}
+
+label {
+    font-weight: 500;
+}
